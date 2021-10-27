@@ -3,23 +3,22 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [0.4.3](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.4.2...@itcig/js-helpers@0.4.3) (2021-10-27)
+
+**Note:** Version bump only for package @itcig/js-helpers
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ### [0.4.2](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.4.1...@itcig/js-helpers@0.4.2) (2021-10-27)
 
 **Note:** Version bump only for package @itcig/js-helpers
 
-# Change Log
-
-All notable changes to this project will be documented in this file. See
-[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
 ### [0.4.1](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.4.0...@itcig/js-helpers@0.4.1) (2021-10-27)
 
 **Note:** Version bump only for package @itcig/js-helpers
-
-# Change Log
-
-All notable changes to this project will be documented in this file. See
-[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 ## [0.4.0](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.3.1...@itcig/js-helpers@0.4.0) (2021-10-27)
 
@@ -28,11 +27,6 @@ All notable changes to this project will be documented in this file. See
 - **eslint-config-cig:** swap Jest for Mocha rules
   ([#5](https://github.com/itcig/itcig/issues/5))
   ([72fa053](https://github.com/itcig/itcig/commit/72fa053df82989ac8f37b930d2aac75b1998d5b2))
-
-# Change Log
-
-All notable changes to this project will be documented in this file. See
-[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 ### [0.3.1](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.3.0...@itcig/js-helpers@0.3.1) (2021-10-27)
 
