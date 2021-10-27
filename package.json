@@ -1,0 +1,51 @@
+{
+	"name": "@itcig/js-helpers",
+	"version": "0.4.2",
+	"license": "MIT",
+	"description": "Javascript helpers",
+	"author": {
+		"name": "ITCIG",
+		"email": "it@capinfogroup.com"
+	},
+	"homepage": "https://github.com/itcig/js-helpers#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/itcig/itcig.git",
+		"directory": "packages/js-packages/js-helpers"
+	},
+	"main": "dist/index.js",
+	"typings": "dist/typings/index.d.ts",
+	"files": [
+		"dist"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {
+		"__lint": "eslint --report-unused-disable-directives .",
+		"prebuild": "rm -rf dist",
+		"build": "tsc -p ./tsconfig.build.json",
+		"lint": "tsc -p ./tsconfig.build.json --noEmit && eslint 'src/**/*.{js,ts,tsx}' 'tests/**/*.{js,ts,tsx}' --fix",
+		"test": "npm run lint && mocha \"tests/**/*.ts\" --recursive --exit",
+		"type:check": "tsc -p ./tsconfig.check.json",
+		"type:gen": "tsc -p ./tsconfig.gentypes.json"
+	},
+	"devDependencies": {
+		"@itcig/mocha-config-cig": "^1.1.1"
+	},
+	"bugs": {
+		"url": "https://github.com/itcig/itcig/issues"
+	},
+	"keywords": [
+		"develop",
+		"helpers",
+		"utilities",
+		"utils"
+	],
+	"extra": {
+		"autotagger": true,
+		"autorelease": true,
+		"npmjs-autopublish": true,
+		"mirror-repo": "itcig/js-helpers"
+	}
+}
