@@ -1,5 +1,18 @@
 # Change Log
 
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+### [0.4.4](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.4.3...@itcig/js-helpers@0.4.4) (2021-10-28)
+
+**Note:** Version bump only for package @itcig/js-helpers
+
+
+
+
+
+# Change Log
+
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
