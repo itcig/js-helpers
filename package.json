@@ -30,7 +30,7 @@
 		"type:gen": "tsc -p ./tsconfig.gentypes.json"
 	},
 	"dependencies": {
-		"@itcig/mocha-config-cig": "^1.1.5"
+		"@itcig/mocha-config-cig": "1.1.5"
 	},
 	"bugs": {
 		"url": "https://github.com/itcig/itcig/issues"
