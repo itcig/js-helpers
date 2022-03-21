@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.0](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.4.10...@itcig/js-helpers@0.5.0) (2022-03-21)
+
+
+### Features
+
+* **mocha-config-cig:** allow extending config ([#18](https://github.com/itcig/itcig/issues/18)) ([7a098d5](https://github.com/itcig/itcig/commit/7a098d5ef7d44556a9eb0aa6f4118cf30484fd8e))
+
+
+
 ### [0.4.10](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.4.9...@itcig/js-helpers@0.4.10) (2022-03-14)
 
 **Note:** Version bump only for package @itcig/js-helpers
