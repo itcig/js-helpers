@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [0.5.1](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.5.0...@itcig/js-helpers@0.5.1) (2022-03-22)
+
+
+### Bug Fixes
+
+* **js-helpers:** correct file name and package name ([#19](https://github.com/itcig/itcig/issues/19)) ([cf3fe27](https://github.com/itcig/itcig/commit/cf3fe2792d701ed4dabdcbc27c4173a384bfac70))
+
+
+
 ## [0.5.0](https://github.com/itcig/itcig/compare/@itcig/js-helpers@0.4.10...@itcig/js-helpers@0.5.0) (2022-03-21)
 
 
