@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/js-helpers",
-	"version": "0.5.1",
+	"version": "0.5.2",
 	"license": "MIT",
 	"description": "Javascript helpers",
 	"author": {
@@ -30,7 +30,7 @@
 		"type:gen": "tsc -p ./tsconfig.gentypes.json"
 	},
 	"dependencies": {
-		"@itcig/mocha-config-cig": "^1.3.0"
+		"@itcig/mocha-config-cig": "^1.3.1"
 	},
 	"bugs": {
 		"url": "https://github.com/itcig/itcig/issues"
